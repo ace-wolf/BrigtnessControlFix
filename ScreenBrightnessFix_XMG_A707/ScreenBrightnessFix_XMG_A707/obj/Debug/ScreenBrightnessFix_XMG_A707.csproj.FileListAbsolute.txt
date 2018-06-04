@@ -1,0 +1,10 @@
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.csprojResolveAssemblyReference.cache
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.Form1.resources
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.Properties.Resources.resources
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.csproj.GenerateResource.cache
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.csproj.CoreCompileInputs.cache
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\bin\Debug\ScreenBrightnessFix_XMG_A707.exe.config
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\bin\Debug\ScreenBrightnessFix_XMG_A707.exe
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\bin\Debug\ScreenBrightnessFix_XMG_A707.pdb
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.exe
+C:\Users\lenna\Desktop\ScreenBrightnessFix_XMG_A707\ScreenBrightnessFix_XMG_A707\obj\Debug\ScreenBrightnessFix_XMG_A707.pdb
