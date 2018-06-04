@@ -1,4 +1,4 @@
-# Brigtness Controll Fix for A707
+# Brigtness Control Fix for A707
 
 Since my Schenker Notbook XMG A707 dosn't get an update for the hotkey driver and the brightness hotkeys are broken for a few months now I programmed a quick fix.
 
